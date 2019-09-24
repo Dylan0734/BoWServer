@@ -2,17 +2,17 @@
     "games":[{
         "id":1,
         "title":"Rocket League",
-        "img":"#"
+        "img":"https://via.placeholder.com/700x600"
         },
         {
         "id":2,
         "title":"Rainbow Six",
-        "img":"#"
+        "img":"https://via.placeholder.com/700x600"
         },
         {
         "id":3,
         "title":"Rust",
-        "img":"#"
+        "img":"https://via.placeholder.com/700x600"
         }
     ],
     
