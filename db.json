@@ -42,21 +42,25 @@
     ],
     
     "brands": [
-    {
-      "brand": "Iscriviti",
-      "link": "signup.html"
-    },
-    {
-      "brand": "Chi siamo",
-      "link": "info.html"
-    },
-    {
-      "brand": "Contattaci",
-      "link": "contattaci.html"
-    },
-    {
-      "brand": "Home",
-      "link": "index.html"
-    }
-  ]
+        {
+          "brand": "Iscriviti",
+          "link": "signup.html"
+        },
+        {
+          "brand": "Chi siamo",
+          "link": "info.html"
+        },
+        {
+          "brand": "Contattaci",
+          "link": "contattaci.html"
+        },
+        {
+          "brand": "Home",
+          "link": "index.html"
+        }
+    ],
+    
+    "users": [
+        
+    ]
 }
